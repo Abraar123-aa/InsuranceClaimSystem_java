@@ -1,1 +1,1 @@
-# InsuranceClaimSystem_java
+The Insurance Claim System is a software application designed to simplify and manage the insurance claim process efficiently. It allows users to submit insurance claims, provide the necessary details and documents, and track the status of their claims. The system helps insurance companies manage claim records, verify submitted information, and process claims in an organized manner. It aims to reduce paperwork, minimize manual errors, improve processing efficiency, and provide a user-friendly platform for both customers and administrators.
